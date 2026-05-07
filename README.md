@@ -35,9 +35,9 @@ scaffolding-days/
 | Phase | Topics Covered | Status |
 |-------|---------------|--------|
 | Phase 1 | HTML Basics, Semantic Tags, Forms | ✅ Done |
-| Phase 2 | CSS — Box Model, Flexbox, Grid | 🔄 In Progress |
-| Phase 3 | JavaScript Fundamentals | ⏳ Upcoming |
-| Phase 4 | DOM Manipulation & Events | ⏳ Upcoming |
+| Phase 2 | CSS — Box Model, Flexbox, Grid | ✅ Done |
+| Phase 3 | JavaScript Fundamentals | 🔄 In Progress |
+| Phase 4 | DOM Manipulation & Events | 🔄 In Progress |
 | Phase 5 | Projects & Real Builds | ⏳ Upcoming |
 
 ---
